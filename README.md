@@ -3,7 +3,7 @@
 🎓 Technicien Supérieur Systèmes et Réseaux (TSSR)  
 📍 Île-de-France  
 🔭 Passionné par Linux, les réseaux, la cybersécurité et les homelabs  
-💼 En recherche d'un poste **Helpdesk N2 / Technicien Support**
+💼 En recherche d'une alternance **Administrateur Infrastructure Sécurisée**
 ## 🛠️ Compétences techniques
 
 **Systèmes**
@@ -25,6 +25,7 @@
 
 **Outils**
 - GLPI, Active Directory, SSH
+- 
 - ## 🏠 Homelab & Projets
 
 ### 🍓 Raspberry Pi 5 — Serveur domestique sécurisé
@@ -33,6 +34,7 @@
 - **WireGuard** — serveur VPN personnel
 - **UFW + Fail2ban** — pare-feu et protection anti brute-force
 - **Scripts bash** — backup automatique des configs + transfert vers Windows, surveillance des services
+- 👉 [Voir le projet complet](https://github.com/marvin78700/homelab-raspberry-pi5)
 
 ### 🌐 Lab réseau virtuel
 - Topologie VLAN avec trunk, access ports, routage inter-VLAN
@@ -46,3 +48,19 @@
 ### 📊 GLPI sur Debian 12
 - Installation stack LAMP complète
 - Déploiement agent GLPI sur Linux
+
+## 🎓 Formation
+
+- **TSSR** — Technicien Supérieur Systèmes et Réseaux, RNCP 5 — Studi (2024-2025)
+- 🎯 Objectif : intégrer l'école **IPSSI** en **Administrateur Infrastructure Sécurisée** en alternance à partir de septembre 2026
+
+## 📫 Me contacter
+
+- 💼 [LinkedIn](www.linkedin.com/in/marvin-ghalmi)
+- 📧 Email disponible sur demande
+
+## 🌱 En ce moment
+
+- Approfondissement cybersécurité (hardening, OSINT)
+- Montée en compétences bash scripting
+- Construction d'un homelab sécurisé documenté sur GitHub
