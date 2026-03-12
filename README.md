@@ -25,7 +25,7 @@
 
 **Outils**
 - GLPI, Active Directory, SSH
-- 
+  
 - ## 🏠 Homelab & Projets
 
 ### 🍓 Raspberry Pi 5 — Serveur domestique sécurisé
