@@ -52,7 +52,6 @@
 ## 🎓 Formation
 
 - **TSSR** — Technicien Supérieur Systèmes et Réseaux, RNCP 5 — Studi (2024-2025)
-- 🎯 Objectif : intégrer l'école **IPSSI** en **Administrateur Infrastructure Sécurisée** en alternance à partir de septembre 2026
 
 ## 📫 Me contacter
 
