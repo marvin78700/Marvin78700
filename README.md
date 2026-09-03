@@ -3,7 +3,7 @@
 🎓 Technicien Supérieur Systèmes et Réseaux (TSSR)  
 📍 Île-de-France  
 🔭 Passionné par Linux, les réseaux, la cybersécurité et les homelabs  
-💼 En recherche d'un poste **Technicien Helpdesk N2** --Disponible immédiatement--
+💼 En recherche d'un poste **Technicien Helpdesk N2** 
 ## 🛠️ Compétences techniques
 
 **Systèmes**
